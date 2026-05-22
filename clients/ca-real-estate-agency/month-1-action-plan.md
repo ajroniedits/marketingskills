@@ -20,19 +20,20 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 
 **Actions:**
 
-- Get access to Google Search Console for `carealestateagency.com`.
-- Confirm the submitted sitemap status for `https://carealestateagency.com/wp-sitemap.xml`.
-- Review GSC index coverage for the URLs called out in the audit: `/rent/guesty-test/`, `/rental-checkout/`, `/author/lirim/`, amenity taxonomy pages, location taxonomy pages, and core service pages.
-- Get GA4 or analytics access and identify current organic landing pages, inquiry events, booking/request actions, and contact form performance.
-- Confirm WordPress admin and SEO plugin access so title tags, meta descriptions, indexation rules, schema settings, and XML sitemap settings can be updated.
-- Capture a Month 1 baseline:
+- Google Search Console, GA4, WordPress admin, SEO plugin, Google Business Profile, and backlink/citation tool access will be requested and connected in a future phase.
+- Until access is available, use public-facing evidence and clearly mark platform-specific findings as access-dependent.
+- Once access is available, confirm the submitted sitemap status for `https://carealestateagency.com/wp-sitemap.xml`.
+- Once access is available, review GSC index coverage for the URLs called out in the audit: `/rent/guesty-test/`, `/rental-checkout/`, `/author/lirim/`, amenity taxonomy pages, location taxonomy pages, and core service pages.
+- Once analytics access is available, identify current organic landing pages, inquiry events, booking/request actions, and contact form performance.
+- Once WordPress/admin access is available, confirm title tags, meta descriptions, indexation rules, schema settings, and XML sitemap settings can be updated.
+- Capture a Month 1 baseline where data is available:
   - Organic clicks and impressions.
   - Top organic queries.
   - Top organic landing pages.
   - Indexed vs submitted pages.
   - Organic inquiries or booking-related conversions if tracking exists.
 
-**Deliverable:** SEO baseline snapshot and access checklist.
+**Deliverable:** SEO baseline snapshot and access checklist, with unavailable platform data marked as pending access.
 
 **Audit findings addressed:** Sitemap validation needed, Search Console access needed, analytics access needed, keyword mapping missing, internal linking needs full crawl, Core Web Vitals needs access.
 
@@ -51,8 +52,8 @@ The most important outcome is a cleaner, more intentional set of indexable pages
   - Likely noindex or selectively improve: broad property-type archives without unique content.
   - Keep and improve selectively: strategic rental-location pages with inventory and search demand.
 - Remove noindexed taxonomy archives from XML sitemaps.
-- Resubmit or refresh the sitemap in Google Search Console after changes.
-- Verify the cleaned URLs are no longer submitted for indexing.
+- Resubmit or refresh the sitemap in Google Search Console after access is available and changes are implemented.
+- Verify the cleaned URLs are no longer submitted for indexing once Search Console access is available.
 
 **Deliverable:** Clean indexation and sitemap configuration for obvious low-value URLs.
 
@@ -76,7 +77,7 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 - Rewrite the homepage title tag from `CA Real Estate Agency` to a keyword-aligned title.
 - Recommended homepage title:
   - `Luxury Villa Rentals & Real Estate in Saint-Martin | CA Real Estate Agency`
-- Add a homepage meta description focused on luxury villa rentals, real estate, Saint-Martin, and high-touch local guidance.
+- Add a homepage meta description focused on luxury villa rentals, real estate, Saint-Martin, Saint-Barthelemy, Anguilla, and high-touch local guidance.
 - Add unique meta descriptions to strategic indexable pages only. Do not write meta descriptions for URLs that will be noindexed.
 - For priority listing pages, update title templates to include property type and location when available.
 - Fix truncated or auto-generated listing meta descriptions for priority villas.
@@ -92,7 +93,8 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 **Actions:**
 
 - Replace homepage proof metrics currently showing `0%`.
-- If verified metrics are available, use specific proof such as years in business, number of villas represented, average review rating, repeat clients, or bookings supported.
+- Verified proof points have not been provided yet, so do not invent numbers.
+- If verified metrics become available, use specific proof such as years in business, number of villas represented, average review rating, repeat clients, or bookings supported.
 - If verified metrics are not available, remove the metric block or replace it with non-quantified trust statements.
 - Rewrite duplicated concierge/service copy so each service has a distinct description:
   - Boat rental.
@@ -116,16 +118,22 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 
 **Purpose:** Make the business easier to verify and contact, supporting trust, local SEO, and conversion.
 
+**Confirmed public contact details:**
+
+- Phone: `+590 690 768 844`
+- Email: `info@carealestateagency.com`
+- Locations/service areas:
+  - Saint Martin
+  - Saint Barthelemy
+  - Anguilla
+- Site language for SEO: English only
+
 **Actions:**
 
-- Add complete visible contact details to the contact page where appropriate:
-  - Phone number.
-  - Email address.
-  - Service areas.
-  - Physical office or appointment details if applicable.
-  - Saint-Martin, Saint-Barts, and Anguilla coverage if confirmed by the client.
+- Ensure the confirmed phone number, email address, and service areas are visible on the contact page and relevant commercial pages.
+- Use English-only SEO copy and metadata unless the client later approves a separate multilingual strategy.
 - Confirm NAP consistency across the website and any available citations.
-- Add or link to Google Business Profile if available.
+- Add or link to Google Business Profile when access is available.
 - Add review or testimonial source links if available.
 - Add clearer contact pathways from core commercial pages to inquiry or booking actions.
 
@@ -137,6 +145,10 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 
 **Purpose:** Decide which pages should rank for which search intents before expanding content.
 
+**Confirmed business focus:** Villa rentals and property sales.
+
+**Confirmed geographic focus:** Saint-Martin, Saint-Barthelemy, and Anguilla.
+
 **Actions:**
 
 - Create a starter keyword-to-page map for:
@@ -147,12 +159,13 @@ The most important outcome is a cleaner, more intentional set of indexable pages
   - Priority location pages.
   - Priority concierge/service pages.
   - Priority villa/property listing templates.
-- Start with audit-implied themes:
+- Prioritize keyword themes around:
   - Luxury villa rentals in Saint-Martin / Sint Maarten.
   - Luxury real estate in Saint-Martin.
+  - Saint-Barthelemy luxury real estate and villa rental searches.
+  - Anguilla luxury real estate and villa rental searches.
   - Villas in Les Terres Basses, Lowlands, Cupecoy, Marigot, and Simpson Bay.
-  - Saint-Barts and Anguilla luxury real estate or villa rental terms if those markets are active priorities.
-  - Concierge services including boat rental, private chef, car rental, restaurants, and beach clubs.
+  - Concierge services that support rental and sales inquiries, including boat rental, private chef, car rental, restaurants, and beach clubs.
 - Mark each page as one of:
   - Index and optimize now.
   - Index later after content expansion.
@@ -170,7 +183,7 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 
 **Actions:**
 
-- Choose 1 priority location page for Month 1 improvement, likely Les Terres Basses if inventory and business priority confirm it.
+- Choose 1 priority location page for Month 1 improvement, likely Les Terres Basses or Saint-Martin luxury villa rentals if inventory and business priority confirm it.
 - Create a content brief for the selected location page covering:
   - Search intent.
   - Recommended title, H1, and meta description.
@@ -242,23 +255,23 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 
 ### Week 1: Access, Baseline, And Index Cleanup
 
-- Secure GSC, GA4, WordPress, and SEO plugin access.
-- Capture baseline organic performance.
-- Confirm sitemap status in GSC.
-- Remove or noindex the public test rental, checkout page, author archive, and low-value taxonomy archives.
-- Refresh sitemap output and confirm noindexed pages are removed from submitted sitemaps.
+- Document pending access for GSC, GA4, WordPress, SEO plugin, GBP, and backlink/citation tools.
+- Capture public baseline data where available.
+- Confirm sitemap status with public checks, then validate in GSC when access is available.
+- Remove or noindex the public test rental, checkout page, author archive, and low-value taxonomy archives where implementation access is available.
+- Refresh sitemap output and confirm noindexed pages are removed from submitted sitemaps when Search Console access is available.
 
 ### Week 2: Homepage And Core Page Fixes
 
 - Fix homepage title, H1, and meta description.
-- Replace or remove `0%` proof metrics.
+- Replace or remove `0%` proof metrics. Do not invent proof metrics.
 - Rewrite duplicated homepage concierge/service copy.
 - Add H1s and meta descriptions to `/sell-with-us/`, `/contact-us/`, and priority service pages.
-- Add visible contact details where confirmed.
+- Add confirmed contact details and service areas where missing.
 
 ### Week 3: Keyword Map And Priority Page Briefs
 
-- Create the starter keyword map.
+- Create the starter keyword map for rentals and sales across Saint-Martin, Saint-Barthelemy, and Anguilla.
 - Decide which taxonomy/location pages should be indexed, improved, or noindexed.
 - Create one priority location page brief.
 - Create one priority concierge/service page brief.
@@ -266,10 +279,10 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 
 ### Week 4: Validation, Quick Wins, And Handoff
 
-- Validate structured data with a rendered tool.
+- Validate structured data with a rendered tool where access/tools allow.
 - Add priority image alt text.
 - Improve priority listing title/meta patterns.
-- Review GSC after sitemap cleanup for submitted/indexed URL changes.
+- Review GSC after sitemap cleanup when access is available; otherwise document access blocker.
 - Prepare the Month 1 handoff summary and Month 2 backlog.
 
 ## Month 1 Priority Backlog
@@ -282,16 +295,16 @@ The most important outcome is a cleaner, more intentional set of indexable pages
 4. Noindex low-value amenity taxonomy pages unless intentionally developed as landing pages.
 5. Fix homepage title, H1, meta description, and `0%` proof metrics.
 6. Add H1s and meta descriptions to core indexable pages.
-7. Set up GSC and GA4 baseline reporting.
+7. Create a starter keyword map for rentals and sales across Saint-Martin, Saint-Barthelemy, and Anguilla.
+8. Document pending access for GSC, GA4, WordPress, SEO plugin, Google Business Profile, and backlink/citation tools.
 
 ### Should Do
 
 1. Rewrite duplicated concierge copy.
-2. Improve contact and local business signals.
-3. Create a starter keyword map.
-4. Decide which location pages should become SEO landing pages.
-5. Validate structured data with a rendered testing tool.
-6. Add alt text to meaningful property and service images.
+2. Improve contact and local business signals using the confirmed phone, email, and service areas.
+3. Decide which location pages should become SEO landing pages.
+4. Validate structured data with a rendered testing tool.
+5. Add alt text to meaningful property and service images.
 
 ### Nice To Do If Time Allows
 
@@ -308,19 +321,28 @@ By the end of Month 1:
 - The sitemap should no longer submit obvious test, checkout, author, or low-value thin archive URLs.
 - The homepage should have a clear keyword-aligned title, one H1, a meta description, and no placeholder `0%` trust metrics.
 - Core commercial pages should have one H1 and a unique meta description if they remain indexable.
-- The client should have a documented starter keyword map and a clear decision on which taxonomy/location pages are worth ranking.
-- Search Console and analytics should be connected or access blockers should be documented.
-- Structured data status should be validated with a rendered tool, not only raw HTML.
+- The client should have a documented starter keyword map focused on rentals and sales across Saint-Martin, Saint-Barthelemy, and Anguilla.
+- The client should have a clear decision on which taxonomy/location pages are worth ranking.
+- Pending access for Search Console, analytics, WordPress, SEO plugin, GBP, and backlink/citation tools should be documented until available.
+- Structured data status should be validated with a rendered tool, not only raw HTML, where access/tools allow.
 - A Month 2 backlog should be ready for content expansion, internal linking, schema implementation, performance improvements, and authority building.
 
-## Client Inputs Needed
+## Client Inputs Confirmed And Open Items
 
-- Confirm priority business focus for the next 90 days: villa rentals, property sales, seller representation, property management, or concierge services.
-- Confirm active geographic priorities: Saint-Martin only, or Saint-Martin plus Saint-Barts and Anguilla.
-- Provide verified proof points that can replace the `0%` homepage metrics.
-- Confirm preferred public contact details and service area language.
-- Confirm whether French-language SEO is planned or whether the site should remain English-only.
-- Share Google Search Console, GA4, WordPress, SEO plugin, Google Business Profile, and backlink/citation access where available.
+### Confirmed
+
+- Priority business focus for the next 90 days: villa rentals and property sales.
+- Active geographic priorities: Saint-Martin, Saint-Barthelemy, and Anguilla.
+- SEO language strategy: English only.
+- Public contact details:
+  - Phone: `+590 690 768 844`
+  - Email: `info@carealestateagency.com`
+  - Locations/service areas: Saint Martin, Saint Barthelemy, Anguilla.
+- Platform access timing: Google Search Console, GA4, WordPress, SEO plugin, Google Business Profile, and backlink/citation access will be handled in the future.
+
+### Still Needed
+
+- Verified proof points to replace the homepage `0%` metrics. Until these are provided, remove the metric block or replace it with non-quantified trust statements.
 
 ## Month 2 Backlog Candidates
 
